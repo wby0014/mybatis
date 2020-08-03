@@ -241,6 +241,12 @@
       <version>9.1-901-1.jdbc4</version>
       <scope>test</scope>
     </dependency>
+    <!--mysql-connector-java -->
+    <dependency>
+      <groupId>mysql</groupId>
+      <artifactId>mysql-connector-java</artifactId>
+      <version>5.1.25</version>
+    </dependency>
   </dependencies>
 
   <build>
